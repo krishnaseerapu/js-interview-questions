@@ -1,0 +1,42 @@
+1) Transpilers- (babel)
+2) Bundlers (Webpack,snowpack)
+3) What is DOM and Virtual DOM?
+4) Web sockets
+5) Hoisting
+6) What scope and what is global scope, localscope or functional scope, block scope?
+7) What is the difference between var,let, const
+8) What is temporal deadzone
+9) What is shadowing
+10) What is closures with example?
+11) what is First class function in js?
+12) What is Callback function?
+13) Explain about event loop in js?
+14) What is Higher order function in js?
+15) what is .map(), .reduce(), .filter in js?
+16) What is Promise in js with example?
+17) What is the use of async() and await() in js?
+18) Call() , apply(), bind() in js?
+19) What is currying in js with example?
+20) What is pure function in js?
+21) Service workers in js
+22) Webstorages in browsers (local storage, session storage, cookie)
+23) what is shallow copy and deep copy in js?
+24) what is spread opearator and rest operator in js?
+25) What is CI/CD?
+26) What is IIFE in js?
+27) What is Event Bubbling and Event Capturing?
+28) What is NFR (Non function requirements)?
+29) How can we improve performance of an application
+30) What is useCallback() and useMemo() in react
+31) Polyfil for .map(), .filter(), .reduce()
+32) What is web Accessbility
+33) What is Event Deligation
+34) what is debouncing and throttling
+35) How browser understand js?
+36) what is the use of async and defer
+37) Higher Order component in react
+38) React.Memo()
+39) lazy loading in react?
+40) Statelifting in react
+41) synthetic events
+42) solid principles
